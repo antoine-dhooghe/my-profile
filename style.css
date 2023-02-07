@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+  list-style-type: none;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+h1,h2,h3,h4{
+  color:white;
+}
+
+h4{
+  font-weight: bold;
+}
+
+h1{
+color: darkred;
+
+}
+
+.container{
+  text-align: center;
+  width:500px;
+  margin: 0 auto;
+  color: white;
+}
